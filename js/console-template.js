@@ -1,0 +1,2 @@
+<div id="debug-console-poptup-wrapper">
+	<div class="header-wrapper"><div class="handle"></div><div class="pin"></div></div><div class="content-wrapper loading"></div><div class="footer-wrapper"><a class="caller">Call</a><div class="resizer"></div></div></div>
